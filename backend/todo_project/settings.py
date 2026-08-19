@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     "rest_framework",
     "corsheaders",
-    "railcloud",
+    "todos",
 ]
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
