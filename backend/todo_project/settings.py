@@ -132,5 +132,6 @@ MAILERS = {
     },
 }
 CORS_ALLOWED_ORIGINS = [
-    "https://railcloud.ananthapriya2608.workers.dev/"
+        "http://localhost:5173",
+    "https://railcloud.ananthapriya2608.workers.dev"
 ]
